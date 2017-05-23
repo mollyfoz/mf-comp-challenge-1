@@ -15,11 +15,11 @@ button {
   background-color: transparent;
   border: solid 1px #ffffff;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 300;
   margin: 5px 10px;
-  padding: 10px 0;
-  width: 140px;
+  padding: 5px 0;
+  width: 130px;
 }
 
 button:hover {
@@ -65,7 +65,8 @@ p {
 
 .button-icon {
   height: 18px;
-  padding-right: 7px;
+  width: 18px;
+  padding-right: 5px;
   padding-top: 5px;
 }
 
@@ -144,11 +145,10 @@ p {
 
 @media screen and (max-width: 900px) {
   button {
-    font-size: 12px;
-    font-weight: 300;
+    font-size: 14px;
     margin: 5px 5px;
-    padding: 10px 0;
-    width: 120px;
+    padding: 2px 0 5px 0;
+    width: 110px;
   }
 
   .basic-info {
@@ -187,6 +187,13 @@ p {
 }
 
 @media screen and (max-width: 800px) {
+  button {
+    font-size: 16px;
+    margin: 5px 10px;
+    padding: 5px 0;
+    width: 130px;
+  }
+
   .box {
     width: 50%;
   }
