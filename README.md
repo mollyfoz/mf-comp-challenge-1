@@ -10,4 +10,4 @@ This project aims to recreate a static site based on a provided comp. Liberties 
 
 ### Final Comp
 ![image of recreated comp]
-
+(mf-comp-challenge-1/assets/Comp screen shot.png)
