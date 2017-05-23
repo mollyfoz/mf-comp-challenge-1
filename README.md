@@ -5,8 +5,8 @@ This project aims to recreate a static site based on a provided comp. Liberties 
 ### Comp to Recreate
 
 ![image of original comp]
-(assets/static-comp-challenge-1.jpg)
+
 
 ### Final Comp
 ![image of recreated comp]
-(assets/Comp screen shot.png)
+
