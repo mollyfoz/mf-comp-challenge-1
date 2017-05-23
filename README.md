@@ -8,4 +8,4 @@ This project aims to recreate a static site based on a provided comp. Liberties 
 
 
 ### Final Comp
-![image of recreated comp](assets/Screen Shot 2017-05-23 at 9.23.08 AM.png)
+![image of recreated comp](https://github.com/mollyfoz/mf-comp-challenge-1/blob/master/assets/Screen%20Shot%202017-05-23%20at%209.23.08%20AM.png)
