@@ -5,7 +5,7 @@ This project aims to recreate a static site based on a provided comp. Liberties 
 ### Comp to Recreate
 
 ![image of original comp]
-(static-comp-challenge-1.jpg)
+(https://github.com/mollyfoz/mf-comp-challenge-1/blob/master/assets/static-comp-challenge-1.jpg)
 
 
 ### Final Comp
